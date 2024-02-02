@@ -1,4 +1,4 @@
 # myFirstRepo
 This is my first git repository
 
-Author - Tanishq Kashla
+Author - Tanishq Kashla (ADGIPS)
